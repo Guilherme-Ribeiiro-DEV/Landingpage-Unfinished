@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 8.4375rem;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-right: auto; /* Isso empurra o .logo para o início do cabeçalho */
+}
+
+.headerbutton {
+    display: flex;
+    align-items: center;
+    gap: 1.1rem;
+    margin-left: auto; /* Isso empurra o .headerbutton para o final do cabeçalho */
+}
+
+
+button {
+    width: 5.5rem;
+    height: 3.375rem;
+    top: 2.6rem;
+    left: 80.5rem;
+    border-radius: 1.5rem;
+    font-size: 1.5rem;
+}
+#desenhos {
+    width: 9.375rem;
+    height: 3.375rem;
+}
+#contato {
+    width: 11.25rem;
+    height: 3.375rem;
+}

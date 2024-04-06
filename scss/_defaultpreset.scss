@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Lato', sans-serif;
+    overflow: hidden;      
+}
+
+body {
+    background: linear-gradient(180deg, #FFAE95 32%, #9372FF 100%);
+}
+
+button {
+    border: 0;
+    background-color: #B1FF95;
+    color: #8e6bff;
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+}
+
+html {
+    font-size: 62,5%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background: none;
+}
+
+.linha {
+    width: 100%;
+    height: 0.3125rem;  
+    background-color: #ffffff;
+}
+
+.copy {
+    color: #ffffff;
+}
+

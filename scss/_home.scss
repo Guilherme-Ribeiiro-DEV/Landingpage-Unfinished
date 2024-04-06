@@ -1,0 +1,37 @@
+.maincontent {
+    padding-bottom: 5.75rem;
+    padding-top: 5.38rem;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 5.3rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.maintext {
+    width: 40rem;
+    color: #ffffff;
+    font-size: 2.1875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 3.69rem;
+    padding-bottom: 4.75rem;
+    margin-right: auto;
+}
+.toyfigure {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+#homebutton {
+    width: 18.75rem;
+    height: 4.375rem;
+    flex-shrink: 0;
+    font-size: 2.06rem;
+}

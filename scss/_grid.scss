@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+@media (max-width: 2560px) {
+    .container {
+        width: 100%;
+        max-width: 1850px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+}
+
+@media (max-width: 1920px) {
+    .container {
+        width: 100%;
+        max-width: 1620px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .container {
+        width: 100%;
+        max-width: 1400px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .container {
+        width: 100%;
+        max-width: 1140px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+}
+
